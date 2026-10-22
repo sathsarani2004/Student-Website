@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>My Personal Website</title> 
+</head> 
+<body> 
+<h1> Sathsarani </h1> 
+    <p> 
+        I'm Sathsarami Ekanayake. I was born on 2004. I'm 22 years old. I'm from Kurunegala.
+	I'm an undergraduage of University of Ruhuna.
+    </p> 
+ 
+    <h2>My Interests</h2> 
+ 
+    <ul> 
+        <li>Singing 1</li> 
+        <li>Play games 2</li> 
+        <li>Listening songs 3</li> 
+    </ul> 
+ 
+    <h2>My Goals</h2> 
+ 
+    <p> 
+      Complete the degree. 
+    </p> 
+ 
+</body> 
+</html>
